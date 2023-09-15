@@ -4,7 +4,7 @@ import pymongo
 import sqlite3
 
 # Initialize MongoDB client
-mongo_client = pymongo.MongoClient("mongodb+srv://tabiansari:Passkey123@guviproject.eeauktn.mongodb.net/?retryWrites=true&w=majority")
+mongo_client = pymongo.MongoClient("mongodb+srv://270171")
 db = mongo_client["youtube_data_lake"]
 
 # Initialize SQLite database
