@@ -42,6 +42,7 @@ You can continue exploring other questions by selecting different options from t
 Application Termination:
 
 Close the Streamlit application when you're finished by stopping the script.
+
 Note:
 The workflow assumes that you have already obtained a valid YouTube Data API Key.
 Ensure you have proper internet connectivity as the application makes requests to the YouTube API to fetch data.
